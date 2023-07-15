@@ -1,7 +1,4 @@
-number1 = int(input("Enter a number1"))
-number2 = int(input("Enter a number2"))
-number3 = int(input("Enter a number3"))
+def my_name(name):
+    print(name)
 
-sum = number1 + number2 + number3
-
-print(sum)
+my_name = ('Artem')
