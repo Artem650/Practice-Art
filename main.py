@@ -1,3 +1,7 @@
-name = input("Enter your name: ")
+number1 = int(input("Enter a number1"))
+number2 = int(input("Enter a number2"))
+number3 = int(input("Enter a number3"))
 
-print(name)
+sum = number1 + number2 + number3
+
+print(sum)
